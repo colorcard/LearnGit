@@ -7,6 +7,6 @@
 5. 自己创建一个仓库项目，刚才的写一个 README.md 文件，内容为 `Hello, Git`，然后将仓库地址提交到本仓库的 `members.txt` 中你名字的后面（请继续刚才的 Fork、Pull、修改、Pull Request流程）。
 6. 为你自己的仓库添加一个 `LICENSE` 文件，遵循 MIT 协议。
 
-Git学习建议：[Git 学习建议](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Git/)
+Git 学习建议：[Git 学习建议](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Git/)
 
 该任务截止至本周五（2025.3.21），请尽快完成，谢谢！
