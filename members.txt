@@ -1,2 +1,2 @@
 colorcard
-zpq  3075565131@qq.com  https://github.com/stm32zpq/learn_git
+3075565131@qq.com
